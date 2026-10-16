@@ -1,0 +1,33 @@
+{
+  "genres": {
+    "1": "Action",
+    "2": "Adventure",
+    "3": "Comedy",
+    "4": "Fantasy",
+    "5": "Mystery"
+  },
+  "tags": {
+    "1": "School Life",
+    "2": "Reincarnation",
+    "3": "Strong Protagonist",
+    "4": "Magic",
+    "5": "Investigation"
+  },
+  "story_types": {
+    "1": "manga",
+    "2": "manhwa",
+    "3": "novel",
+    "4": "anime",
+    "5": "video",
+    "6": "light-novel"
+  },
+  "status": {
+    "1": "Ongoing",
+    "2": "Completed",
+    "3": "Hiatus"
+  },
+  "origin": {
+    "1": "Original",
+    "2": "Translated"
+  }
+}
