@@ -1063,5 +1063,83 @@
     "up": 1792957389323,
     "e": "",
     "p": 1
+  },
+  {
+    "id": 28,
+    "sl": "quiet-detective-novel-2",
+    "t": "Quiet Detective Novel",
+    "ta": "رواية المحقق الهادئ",
+    "alts": [
+      "The Quiet Detective"
+    ],
+    "st": 3,
+    "o": 1,
+    "s": 1,
+    "g": [
+      5,
+      3
+    ],
+    "tg": [
+      5
+    ],
+    "sum": "A quiet detective solves cases using observation rather than force.",
+    "cover": "",
+    "co": "",
+    "ci": 0,
+    "tm": null,
+    "ad": false,
+    "ag": "",
+    "cop": 0,
+    "r": 0,
+    "l": 0,
+    "vw": 0,
+    "bm": 0,
+    "y": 0,
+    "ol": "",
+    "demo": "",
+    "fmt": "",
+    "d": 1793036313103,
+    "up": 1793036386452,
+    "e": "",
+    "p": 1
+  },
+  {
+    "id": 29,
+    "sl": "quiet-detective-novel-3",
+    "t": "Quiet Detective Novel",
+    "ta": "رواية المحقق الهادئ",
+    "alts": [
+      "The Quiet Detective"
+    ],
+    "st": 5,
+    "o": 1,
+    "s": 1,
+    "g": [
+      5,
+      3
+    ],
+    "tg": [
+      5
+    ],
+    "sum": "A quiet detective solves cases using observation rather than force.",
+    "cover": "",
+    "co": "",
+    "ci": 0,
+    "tm": null,
+    "ad": false,
+    "ag": "",
+    "cop": 9,
+    "r": 0,
+    "l": 0,
+    "vw": 0,
+    "bm": 0,
+    "y": 0,
+    "ol": "",
+    "demo": "",
+    "fmt": "",
+    "d": 1793036818012,
+    "up": 1793036897414,
+    "e": "",
+    "p": 1
   }
 ]
